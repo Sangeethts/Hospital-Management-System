@@ -1,0 +1,1 @@
+The database should be imported into a local server using Php my Admin. The usage of WAMP server is recommended.
